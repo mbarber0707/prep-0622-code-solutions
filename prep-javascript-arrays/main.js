@@ -1,0 +1,10 @@
+const languages = ['html', 'css', 'javascript', 'react', 'node', 'postgres'];
+console.log('languages array:', languages);
+var firstElement = languages[0];
+console.log('This is the first element in the array:', firstElement);
+var thirdElement = languages[2];
+console.log('third element in array:', thirdElement);
+var length = languages.length;
+console.log('the number of array elements:', length);
+var lastElement = languages[5];
+console.log('The last element in the array is:', lastElement);
